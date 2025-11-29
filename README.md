@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Deepak P D</h1>
 
-<!--
-**Deepak-pd21/Deepak-pd21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Frontend Developer | 💻 Web Designer | 🎮 Tech & Gaming Enthusiast  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- Passionate about building clean & interactive web applications
+- Currently learning Full Stack development
+- Love practicing UI/UX, animations, and creative designs
+- Open to collaboration on web development projects
+
+---
+
+## 🛠 Tech Stack
+| Category | Tools |
+|----------|-------|
+| **Languages** | HTML, CSS, JavaScript |
+| **Frameworks / Libraries** | React (learning) |
+| **Tools** | Git, GitHub, VS Code |
+| **Other** | Responsive UI, Animations, Flexbox, Grid |
+
+---
+
+## 📌 Featured Projects
+Here are some of my best works:
+
+| Project | Description | Tech |
+|--------|------------|------|
+| 🎯 [Portfolio Website](https://github.com/Deepak-pd21/mainportfolio) | My personal portfolio website | HTML, CSS |
+| 📁 [Tasks](https://github.com/Deepak-pd21/tasks) | UI animations & CSS practice | HTML, CSS |
+| 📸 [Photo Portfolio](https://github.com/Deepak-pd21/photoPortfolioJuly) | Gallery & design project | HTML, CSS |
+| 🎲 [Dice Challenge](#) | Fun JavaScript dice game | JavaScript, DOM |
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak-pd21&show_icons=true&theme=radical" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-pd21&layout=compact&theme=radical" height="160px"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+📧 Email: **dpddeepak501@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/deepak-p-d-691781360**
+
+---
+
+## 💡 Goals for 2025
+- Build 10+ JavaScript mini projects
+- Create a full React website
+- Strengthen Git & GitHub contributions
+
+---
+
+### ⭐ If you like my work, consider giving a star to my repositories!
