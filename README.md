@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 - Passionate about building clean & interactive web applications
-- Currently learning Full Stack development
+- Currently learning ME(A)RN Stack development
 - Love practicing UI/UX, animations, and creative designs
 - Open to collaboration on web development projects
 
