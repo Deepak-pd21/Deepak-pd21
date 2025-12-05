@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Deepak P D</h1>
 
 <p align="center">
-🚀 Frontend Developer | 💻 Web Designer | 🎮 Tech & Gaming Enthusiast  
+🚀 Full Stack & Frontend Developer | 💻 Web Designer | 🎮 Tech & Gaming Enthusiast  
 </p>
 
 ---
