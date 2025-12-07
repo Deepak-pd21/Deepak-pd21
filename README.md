@@ -51,7 +51,7 @@ Here are some of my best works:
 ---
 
 ## 🧠 Coding Profiles
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/DEEPAK%20P%20D)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)]([https://www.hackerrank.com/DEEPAK%20P%20D](https://www.hackerrank.com/profile/dpddeepak501))
 
 - **HackerRank:** https://www.hackerrank.com/DEEPAK%20P%20D
 
