@@ -50,6 +50,13 @@ Here are some of my best works:
 
 ---
 
+## 🧠 Coding Profiles
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/DEEPAK%20P%20D)
+
+- **HackerRank:** https://www.hackerrank.com/DEEPAK%20P%20D
+
+---
+
 ## 💡 Goals for 2025
 - Build 10+ JavaScript mini projects
 - Create a full React website
