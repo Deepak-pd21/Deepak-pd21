@@ -36,14 +36,6 @@ Here are some of my best works:
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Deepak-pd21&show_icons=true&theme=radical" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-pd21&layout=compact&theme=radical" height="160px"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 📧 Email: **dpddeepak501@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/deepak-p-d-691781360**
